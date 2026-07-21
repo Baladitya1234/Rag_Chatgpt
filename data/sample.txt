@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning (ML) is a subset of AI that enables computers to learn from data.
+
+Deep Learning is a subset of Machine Learning that uses neural networks.
+
+Python is one of the most popular programming languages for AI and ML.
